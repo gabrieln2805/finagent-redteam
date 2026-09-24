@@ -1,0 +1,5 @@
+data/raw/eu/*.csv
+__pycache__/
+*.pyc
+.env
+mcp_servers.log

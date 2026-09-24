@@ -1,0 +1,5 @@
+# Core: MCP client/servers used by run_live.py (run.py itself needs only the standard library)
+mcp[cli]>=1.0.0
+
+# Optional: only for --backend anthropic / --anthropic
+anthropic>=0.40.0

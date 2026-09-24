@@ -1,0 +1,10 @@
+{
+  "eu-financial-records": {
+    "command": "python",
+    "args": ["../../eu-financial-records-mcp/server.py"]
+  },
+  "financial-ops-mock": {
+    "command": "python",
+    "args": ["servers/financial-ops-mock/server.py"]
+  }
+}
