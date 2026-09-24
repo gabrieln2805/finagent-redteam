@@ -1,0 +1,40 @@
+{
+  "source": "https://github.com/os-data/eu-structural-funds (CC-BY, EU Commission FTS + Romania ERDF/ESF registry)",
+  "ro_erdf_esf_2007_2013_region_totals_ron": {
+    "Centru": 3592232871.72,
+    "Nord Est": 4995813456.129999,
+    "Sud": 4547478262.940001,
+    "Sud Vest": 4170075742.3500004,
+    "Vest": 3234671015.13,
+    "Sud Est": 3772369945.2200003,
+    "Nord Vest": 4265189630.05,
+    "Bucuresti Ilfov": 3531747119.04,
+    "SUD": 1120098.0,
+    "Sud est": 620341.0,
+    "AM POR": 141245440.0,
+    "OI Turism": 6070167.0
+  },
+  "ro_erdf_esf_2007_2013_projects": {
+    "6987": {
+      "title": "Reabilitarea si extinderea Caminului de persoane varstnice Alba Iulia - serviciul social rezidential de interes regional",
+      "beneficiary": "Municipiul Alba Iulia",
+      "region": "Centru",
+      "county": "Alba",
+      "total_amount_ron": 3628302.0
+    }
+  },
+  "fts_2015_country_totals_eur": {
+    "Romania": 48016304.99999992,
+    "Poland": 278101982.5399997,
+    "Belgium": 912007304.0799997
+  },
+  "fts_2015_beneficiaries_eur": {
+    "SI2.715960.1": {
+      "name": "COMPANIA NATIONALA DE CAI FERATE CFR SA*NATIONAL RAILWAY COMPANY CFR",
+      "country": "Romania",
+      "total_amount_eur": 163720222.95,
+      "subject": "THE REHABILITATION OF THE BRASOV  SIMERIA RAILWAY COMPONENT OF THE RHIN - DANUBE CORRIDOR, FOR CIRCULATION WITH MAXIMUM SPEEDS OF 160 KM/H; SECTION: BRASOV  SIGHISOARA. SUBSECTIONS: 1. BRASOV  APATA AND 3. CATA  SIGHISOARA., 2014-RO-TMC-0639-W",
+      "responsible_department": "Innovation and Networks Executive Agency"
+    }
+  }
+}
